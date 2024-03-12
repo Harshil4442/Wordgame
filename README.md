@@ -1,4 +1,4 @@
-# Codeshare
+# Wordgame
 
 <br />
 <p align="center">
@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-- CodeShare is an innovative platform designed to foster collaborative coding experiences. Whether you're working on a project with teammates, teaching programming concepts, or simply exploring code together, CodeShare provides a real-time, shared coding environment where users can seamlessly collaborate and communicate.<br/><br/>
+- Welcome to the Word Game project, an interactive and engaging online game where users can join together in rooms to unleash their creativity and guessing skills! In this game, players take turns drawing a given word while others attempt to guess the correct word based on the drawing.<br/><br/>
 
 
 ### Features
