@@ -4,7 +4,8 @@ import mongoose from 'mongoose';
 const roomdata = mongoose.Schema({
   roomid: {
     type: String,
-  },
+  }, 
+  
   username: [
     {
       type: String,
